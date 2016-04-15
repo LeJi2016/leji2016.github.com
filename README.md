@@ -1,8 +1,8 @@
-# youseevr.github.com
-柚看主页
+# lejitech.com
+乐技主页
 ======
 
-The source code of https://youseevr.github.io
+The source code of http://lejitech.com
 
 LICENSE
 ------------
